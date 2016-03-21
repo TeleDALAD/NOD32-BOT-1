@@ -131,14 +131,11 @@ return {
   },
   },
   patterns = {
-    "^[Ff](ilter) (.+) (.*)$",
-    "^[Ff](ilterlist)$",
+    "^[#!/]([Ff]ilter) (.+) (.*)$",
+    "^[#!/]([Ff]ilterlist)$",
     "(.*)",
   },
   run = run
 }
 
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--DALAD™:@Dlt_Admin_2
